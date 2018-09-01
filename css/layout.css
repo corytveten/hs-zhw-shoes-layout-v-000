@@ -32,8 +32,20 @@
   background: #fff;
 }
 
-col-2 {
+.col-2 {
   float: left;
   width: 66%;
   background: #fff;
+}
+
+.col-3 {
+  background: #fff;
+}
+
+[class*='col-'] {
+  margin-left: 2%;
+}
+
+.first {
+  margin-left: 0%;
 }
