@@ -24,4 +24,11 @@
 
 /* Posititoning Classes */
 
+/*///////////// LAYOUT ////////////////*/
+
+.col-1 {
+  float: left;
+  width: 32%;
+  background: #fff;
+}
 
