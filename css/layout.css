@@ -49,3 +49,7 @@
 .first {
   margin-left: 0%;
 }
+
+.no-background {
+  background: none;
+}
